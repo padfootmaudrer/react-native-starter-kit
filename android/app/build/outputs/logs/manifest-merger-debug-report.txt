@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/029cd031d6fa61e05844ad75b8c095a8/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/313fb91bbf750ce2b4dc926216f70aa1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/c3957ebb292e23ac35bf84474ae96bea/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/96b91e00f722f285006a6e2227d81b3d/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/41603c4d2c7ace666959e3aabc7beaa2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/382e3ad150231d30c3a1fcba937c600b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/2f1ef4a667dfdc5ea9a017135463be31/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5092f2f485e20905255a2e3972aba8d3/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/715e3ba705ef9ba38c80404c7e7c7c50/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/6d56a3e07daee478e4aca4dd860b5343/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/9947dc27cabf5cb52f274b37d96a77cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/168429b7f0c85ba1342003a1f74ca262/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/029cd031d6fa61e05844ad75b8c095a8/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/029cd031d6fa61e05844ad75b8c095a8/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:9:5-47
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:9:5-47
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:9:5-47
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/029cd031d6fa61e05844ad75b8c095a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/029cd031d6fa61e05844ad75b8c095a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/313fb91bbf750ce2b4dc926216f70aa1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/313fb91bbf750ce2b4dc926216f70aa1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/c3957ebb292e23ac35bf84474ae96bea/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/c3957ebb292e23ac35bf84474ae96bea/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/96b91e00f722f285006a6e2227d81b3d/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/96b91e00f722f285006a6e2227d81b3d/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/41603c4d2c7ace666959e3aabc7beaa2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/41603c4d2c7ace666959e3aabc7beaa2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/382e3ad150231d30c3a1fcba937c600b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/382e3ad150231d30c3a1fcba937c600b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/2f1ef4a667dfdc5ea9a017135463be31/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/2f1ef4a667dfdc5ea9a017135463be31/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/715e3ba705ef9ba38c80404c7e7c7c50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/715e3ba705ef9ba38c80404c7e7c7c50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/6d56a3e07daee478e4aca4dd860b5343/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/6d56a3e07daee478e4aca4dd860b5343/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/9947dc27cabf5cb52f274b37d96a77cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/9947dc27cabf5cb52f274b37d96a77cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/168429b7f0c85ba1342003a1f74ca262/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/168429b7f0c85ba1342003a1f74ca262/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:9:5-47
+INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:9:5-47
+	android:targetSdkVersion
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:9:15-44
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:9:5-47
+		INJECTED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:11:5-28:19
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-15:19
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/029cd031d6fa61e05844ad75b8c095a8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/029cd031d6fa61e05844ad75b8c095a8/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/313fb91bbf750ce2b4dc926216f70aa1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/313fb91bbf750ce2b4dc926216f70aa1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/c3957ebb292e23ac35bf84474ae96bea/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/c3957ebb292e23ac35bf84474ae96bea/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/2f1ef4a667dfdc5ea9a017135463be31/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/2f1ef4a667dfdc5ea9a017135463be31/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5092f2f485e20905255a2e3972aba8d3/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/padfoot/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5092f2f485e20905255a2e3972aba8d3/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:13:7-33
+	android:theme
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:12:7-38
+activity#com.nativestarterkit.MainActivity
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:27:7-84
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-86
+MERGED from [:react-native-code-push] /Users/padfoot/Documents/code/jss/native-starter-kit/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/padfoot/Documents/code/jss/native-starter-kit/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
